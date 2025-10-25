@@ -19,7 +19,7 @@ I'm a Backend Developer and LLM Engineer from Sialkot, Pakistan, with a strong f
 ## 🛠 Skills
 
 - Languages: Python, SQL, Bash
-- Frameworks & Tools: FastAPI, Docker, Selenium, Streamlit, Pinecone, OpenAI
+- Frameworks & Tools: FastAPI, Docker, NestJS, AsyncAPI, Langchain, ADK, Redis and so much more....
 - Systems & Services: Kubernetes, AWS, Linux, Windows
 
 ## 📈 Projects
